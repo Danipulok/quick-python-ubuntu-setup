@@ -19,7 +19,7 @@
 - Passing user name to be added as `sudo` user
 
 **🏹🐍 Usage:**
-```python3
+```sh
 git clone https://github.com/Danipulok/QuickPythonUbuntuSetup.git
 cd QuickPythonUbuntuSetup
 nano python_setup.sh
