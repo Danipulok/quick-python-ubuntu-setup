@@ -19,7 +19,7 @@
 - Passing user name to be added as `sudo` user
 
 **🏹🐍 Usage:**
-```python3
+```sh
 git clone https://github.com/Danipulok/QuickPythonUbuntuSetup.git
 cd QuickPythonUbuntuSetup
 nano python_setup.sh
@@ -28,7 +28,7 @@ bash python_setup.sh
 
 **💬👋 Contacts:**
 
-<a href='t.me//danipulok'>
+<a href='https://t.me//danipulok'>
     <img src='https://svgshare.com/i/X5a.svg' height='15px' title='Telegram logo'/>
     Telegram
 </a>
